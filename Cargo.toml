@@ -5,7 +5,7 @@ edition = "2018"
 authors = ["Hjate C. Nannestad"]
 repository = "https://github.com/ChangeCaps/alliance"
 description = "WIP contact me if you want the name"
-license = "LICENSE"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
